@@ -1,6 +1,6 @@
 from PIL import Image
 
-class ConsciaMain():
+class Stegno():
 
     def genData(data):
 
